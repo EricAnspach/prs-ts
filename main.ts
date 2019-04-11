@@ -1,4 +1,4 @@
-import { User } from './User';
+import { User } from './user.class';
 
 let u1: User = new User (1, "SBlessing", "asdf", "Sean", "Blessing", "513-123-4567", "sean@max.com", true, false);
 let u2: User = new User (2, "EAnspach", "asdf", "Eric", "Anspach", "513-123-4567", "eric@max.com", true, true);

@@ -1,5 +1,5 @@
-import { Product } from './Product';
-import { PurchaseRequest } from './PurchaseRequest';
+import { Product } from './product.class';
+import { PurchaseRequest } from './purchase-request.class';
 
 export class PurchaseRequestLineItem {
     id: number;
